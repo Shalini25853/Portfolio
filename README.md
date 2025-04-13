@@ -1,4 +1,4 @@
-# Portfolio
+# Shalini James Paulraj - Portfolio
 # 📚 Shalini James Paulraj – Data & Strategy Portfolio
 
 Welcome to my professional project portfolio. I specialize in transforming real-world challenges into **data-driven, scalable, and strategic solutions**. This collection features work across **data science, business analytics, finance, ESG, marketing, and communication** — all rooted in real impact, cross-functional thinking, and ethical innovation.

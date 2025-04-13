@@ -28,6 +28,9 @@ Welcome to my professional project portfolio. I specialize in transforming real-
 - 📱 [Instagram Appeal Analysis – Nike vs Alo](https://github.com/Shalini25853/social-media-appeals-nike-alo-instagram-analysis)  
   Emotional vs rational content study on IG engagement
 
+- 🛍️ [Retail Data Management & Forecasting Pipeline](https://github.com/Shalini25853/data-management-retail-forecasting-sql-excel)  
+  SQL-based retail insights with Excel/Power Query cleaning and PowerShell automation
+
 ---
 
 ## 💼 FINANCE, STRATEGY & CONSULTING
@@ -44,6 +47,8 @@ Welcome to my professional project portfolio. I specialize in transforming real-
 ---
 
 ## 🌍 ESG, SUSTAINABILITY & GLOBAL STRATEGY
+- 📡 [ESG Policy & Digital Privacy: SCA Case Study](https://github.com/Shalini25853/esg-policy-stakeholder-analysis-stored-communications-act)  
+  Stakeholder-driven reform proposal for balancing privacy and justice in digital evidence law
 
 - 🌱 [Nestlé Cocoa Ethical Sourcing Plan – West Africa](https://github.com/Shalini25853/ethical-sourcing-strategy-nestle-west-africa)  
   Stakeholder plan to eliminate child labor with traceability tools

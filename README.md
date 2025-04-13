@@ -1,80 +1,73 @@
 # 📚 Shalini James Paulraj – Data & Strategy Portfolio
 
-Welcome to my professional project portfolio. I specialize in transforming real-world challenges into data-driven, scalable, and strategic solutions. This collection features work across data science, business analytics, finance, ESG, marketing, and communication — all rooted in real impact, cross-functional thinking, and ethical innovation.
+Welcome to my professional project portfolio. I specialize in transforming real-world challenges into **data-driven, scalable, and strategic solutions**. This collection features work across **data science, business analytics, finance, ESG, marketing, and communication** — all rooted in real impact, cross-functional thinking, and ethical innovation.
 
 ---
 
 ## 🔬 DATA SCIENCE & MACHINE LEARNING
 
-- **🤖 Automobile Q&A Chatbot using OpenAI, Weaviate & Aparavi**  
-  Chatbot with semantic vector search on unstructured auto data.
+- 📰 [Fake News Detection using Logistic Regression](https://github.com/Shalini25853/ml-fake-news-detector-logistic-regression)  
+  TF-IDF based classifier with 93.9% accuracy for misinformation detection
 
-- **❤️ Heart Disease Prediction using k-NN**  
-  Predictive modeling on clinical data using GridSearchCV-optimized k-NN.
+- 🤖 [Automobile Q&A Chatbot using OpenAI, Weaviate & Aparavi](https://github.com/Shalini25853/data-nlp-auto-chatbot-openai-aparavi)  
+  Chatbot with semantic vector search on unstructured auto data
 
-- **📰 Fake News Detection using Logistic Regression**  
-  TF-IDF based classifier with 93.9% accuracy for misinformation detection.
-
-- **📈 VR6 Portfolio Forecasting in R**  
-  Linear regression forecasting of semiconductor investment performance.
+- 📈 [VR6 Portfolio Forecasting in R](https://github.com/Shalini25853/finance-portfolio-analysis-vr6-r-predictive-model)  
+  Linear regression forecasting of semiconductor investment performance
 
 ---
 
 ## 📊 BUSINESS & DATA ANALYTICS
 
-- **🛍️ Retail Data Management & Forecasting Pipeline**  
-  SQL-based retail insights with Excel/Power Query cleaning and PowerShell automation.
+- 🏠 [Airbnb Listing Text Analytics (R Shiny)](https://github.com/Shalini25853/text-analytics-airbnb-rshiny)  
+  Sentiment & keyword dashboard for user-generated content
 
-- **🏠 Airbnb Listing Text Analytics (R Shiny)**  
-  Sentiment & keyword dashboard for user-generated content.
+- 🧩 [Subscription Market Segmentation & Strategy](https://github.com/Shalini25853/marketing-analytics-subscription-strategy)  
+  Regional pricing recommendations using behavioral engagement metrics
 
-- **🧩 Subscription Market Segmentation & Strategy**  
-  Regional pricing recommendations using behavioral engagement metrics.
-
-- **📱 Instagram Appeal Analysis – Nike vs Alo**  
-  Emotional vs rational content study on IG engagement.
+- 📱 [Instagram Appeal Analysis – Nike vs Alo](https://github.com/Shalini25853/social-media-appeals-nike-alo-instagram-analysis)  
+  Emotional vs rational content study on IG engagement
 
 ---
 
 ## 💼 FINANCE, STRATEGY & CONSULTING
 
-- **👩‍💼 Innovation Women Strategy & Growth Simulation**  
-  Financial simulation and bundled pricing strategy for SaaS growth.
+- 👩‍💼 [Innovation Women Strategy & Growth Simulation](https://github.com/Shalini25853/strategy-finance-innovation-women-growth-model)  
+  Financial simulation and bundled pricing strategy for SaaS growth
 
-- **💄 Rougir Cosmetics – LP Cost Optimization Model**  
-  Excel Solver model to minimize production & outsourcing cost.
+- 💄 [Rougir Cosmetics – LP Cost Optimization Model](https://github.com/Shalini25853/operations-lp-cost-model-rougir-cosmetics)  
+  Excel Solver model to minimize production & outsourcing cost
 
-- **🎮 Sony PS5 Profitability Analysis**  
-  Regression-based financial insights for executive leadership.
+- 🎮 [Sony PS5 Profitability Analysis](https://github.com/Shalini25853/financial-analysis-sony-ps5-profitability-modeling)  
+  Regression-based financial insights for executive leadership
 
 ---
 
 ## 🌍 ESG, SUSTAINABILITY & GLOBAL STRATEGY
 
-- **📡 ESG Policy & Digital Privacy: SCA Case Study**  
-  Stakeholder-driven reform proposal for balancing privacy and justice in digital evidence law.
+- 🌱 [Nestlé Cocoa Ethical Sourcing Plan – West Africa](https://github.com/Shalini25853/ethical-sourcing-strategy-nestle-west-africa)  
+  Stakeholder plan to eliminate child labor with traceability tools
 
-- **🌱 Nestlé Cocoa Ethical Sourcing Plan – West Africa**  
-  Stakeholders plan to eliminate child labor with traceability tools.
+- 🤝 [Global DEI Strategy – USA vs India](https://github.com/Shalini25853/global-dei-strategy-usa-india-analysis)  
+  Comparative policy and culture analysis for inclusive growth
 
-- **🤝 Global DEI Strategy – USA vs India**  
-  Comparative policy and culture analysis for inclusive growth.
-
-- **🌴 Puerto Rico Tourism Strategy**  
-  Hospitality expansion and crime mitigation plan to revive tourism.
+- 🌴 [Puerto Rico Tourism Strategy](https://github.com/Shalini25853/tourism-strategy-puerto-rico-hilton-expansion)  
+  Hospitality expansion and crime mitigation plan to revive tourism
 
 ---
 
 ## 💬 COMMUNICATION & LEADERSHIP
 
-- **🎤 Communicating with Impact – Presentation & Networking**  
-  Self-reflection project on public speaking, influence, and trust-building.
+- 🎤 [Communicating with Impact – Presentation & Networking](https://github.com/Shalini25853/communicating-with-impact-networking-presentation)  
+  Self-reflection project on public speaking, influence, and trust-building
 
 ---
 
 ## 📌 Let's Connect
 
-📧 Email Me  
-🌐 [LinkedIn](#)  
+- 📧 [Email Me](mailto:your.email@example.com)  
+- 🌐 [LinkedIn](https://linkedin.com/in/shalinijamespaulraj)
+
+---
 
 > “Data is only powerful when connected to purpose. I build bridges between analysis and action.”
